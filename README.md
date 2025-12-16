@@ -99,6 +99,7 @@ It demonstrates my ability to:
 ## Author
 
 **Rahim Foroughisaeidabadi**\
+**Zahra Ahmadi**\
 M.Sc. Cognitive Science\
 Interests: cognition, behavior, language, and data-driven research
 
