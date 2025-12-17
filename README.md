@@ -75,26 +75,8 @@ prediction.
 - Non-linear effects of economic variables
 - Cross-cultural variability in how similar scores are achieved
 
-*(Exact findings depend on notebook and model version.)*
-
 ------------------------------------------------------------------------
 
-## Relevance to Cognitive Science
-
-Although based on macro-level data, this project is grounded in
-**psychological constructs**:
-
-- Subjective well-being
-- Perception of freedom and control
-- Trust, generosity, and social cognition
-
-It demonstrates my ability to:
-
-- Work with complex behavioral data
-- Translate abstract psychological concepts into measurable variables
-- Communicate findings through visual and statistical means
-
-------------------------------------------------------------------------
 
 ## Author
 
